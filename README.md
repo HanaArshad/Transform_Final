@@ -13,5 +13,7 @@ Testing out the code just chnage the following:
 - Indexes: Line 5 and Line 27
 - Unemployment: Line 5 and Line 21
 - Benefits: Line 5 and Line 26
-- LGA_Trends: Line 5 and line 15 (First file), use Line 15 for Line 28 (Second file)
+- LGA_Trends_Updated: Line 5 and line 15 (First file), use Line 15 for Line 28 (Second file)
+LGA_trends has two files however only use the LGA_Trends_Updated one for the code 
+
 
